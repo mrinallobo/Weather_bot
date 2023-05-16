@@ -1,0 +1,1 @@
+Weather bot created using RASA Library combined with the weather api that creates a GET request to and then outputs the weather 
